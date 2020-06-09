@@ -1,0 +1,17 @@
+{
+    "name": "alessandro1105/test",
+    "description": "First package",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Alessandro Pasqualini",
+            "email": "alessandro.pasqualini.1105@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "src\\": "Alessandro1105"
+        }
+    }
+}
